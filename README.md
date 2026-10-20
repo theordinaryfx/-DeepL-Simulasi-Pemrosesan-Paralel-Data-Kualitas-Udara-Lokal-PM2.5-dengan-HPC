@@ -108,8 +108,6 @@ Skrip otomatis menjalankan mode sekuensial lalu paralel dengan 2, 4, 8, ... core
 - **Speedup** = T<sub>sekuensial</sub> / T<sub>paralel</sub>
 - **Efisiensi** = Speedup / jumlah core × 100%
 
-**Hasil di mesin saya** (isi dari output Anda, sebutkan spesifikasi CPU):
-
 | Mode | Core | Waktu (detik) | Speedup | Efisiensi |
 |---|---|---|---|---|
 | Sekuensial | 1 | … | 1.00× | 100% |
